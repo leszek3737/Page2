@@ -52,7 +52,7 @@ $font-weight-bold: 700;
 // $h2-font-size: 6rem;
 // $h3-font-size: $font-size-base * 1.75;
 // $h4-font-size: 3.6rem;
-// $h5-font-size: 1.8rem;
+$h5-font-size: 2 rem;
 // $h6-font-size: $font-size-base;
 $display1-size: 6rem;
 $display2-size: 5.5rem;
@@ -80,3 +80,6 @@ $input-bg: transparent;
 $input-color: $black;
 $input-border-color: transparent;
 $input-border-radius: 0;
+
+
+$spacer: 2rem;
