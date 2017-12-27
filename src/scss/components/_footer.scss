@@ -1,0 +1,12 @@
+@media (min-width: 991px) {
+    .footer__nav {
+        border-right: 1px solid $gray-600;
+    }
+}
+
+@media (min-width: 767px) {
+    .footer__nav {
+        border-left: 1px solid $gray-600;
+
+    }
+}

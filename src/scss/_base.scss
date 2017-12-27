@@ -1,1 +1,23 @@
+html {
+    font-size: 63.5%;
+}
 
+.bg-{ 
+	&blue-lh {
+    background: $blue-lh;
+}
+    &gray-700{
+background: $gray-700;
+    }
+    &transparent{
+    background-color: transparent;
+}}
+
+.text-{
+	&orange{
+	color: $orange
+}
+	&gray-200{
+		color: $gray-200;
+	}
+}
